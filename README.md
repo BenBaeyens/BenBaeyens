@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate C# developer from Belgium</h3>
 
-- 🔭 I’m currently [**testing out new stuff!**](https://github.com/BenBaeyens/Personal-Testing-Grounds)
+- 🔭 I’m currently [**Working on a game!**](https://github.com/BenBaeyens/BridgeBuilder)
 
 - 📚 I'm currently studying **computer science** at [Hogeschool PXL](https://www.pxl.be/)
 
