@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate C# developer from Belgium</h3>
 
-- 💼 I’m currently [**Working on a game!**](https://github.com/BenBaeyens/BridgeBuilder)
+- 💼 I’m currently [**Working on a C# game development course**](https://constructg.com/) with [**Labinator Solutions**](https://labinator.com/)
 
 - 📚 I'm currently studying **applied informatics** at [Hogeschool PXL](https://www.pxl.be/)
 
-- 🌱 I’m currently learning **artificial intelligence, python, and web development.**
+- 🌱 I’m currently learning **artificial intelligence**
 
 - 👨‍💻 All of my projects are available at [https://www.benbaeyens.com](https://www.benbaeyens.com)
 
