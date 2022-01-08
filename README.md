@@ -3,7 +3,7 @@
 
 - 💼 I’m currently [**Working on Fiverr!**](https://www.fiverr.com/benbaeyens?up_rollout=true)
 
-- 📚 I'm currently studying **applied informatics** at [Hogeschool PXL](https://www.pxl.be/)
+- 📚 I'm currently studying **applied computer science** at [Hogeschool PXL](https://www.pxl.be/)
 
 - 🌱 I’m currently learning **Meshes & Multiplayer systems**
 
