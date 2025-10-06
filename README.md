@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate C# developer from Belgium</h3>
 
-- 💼 I’m currently [**Working on Fiverr!**](https://www.fiverr.com/benbaeyens?up_rollout=true)
-
-- 📚 I'm currently studying **applied computer science** at [Hogeschool PXL](https://www.pxl.be/)
-
 - 🌱 I’m currently learning **Meshes & Multiplayer systems**
-
-- 👨‍💻 All of my projects are available at [https://www.benbaeyens.com](https://www.benbaeyens.com)
 
 - 📫 How to reach me: [**contact@benbaeyens.com**](mailto:contact@benbaeyens.com)
 
