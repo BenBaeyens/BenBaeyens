@@ -10,5 +10,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=benbaeyens&show_icons=true" alt="benbaeyens" /></p>
 
 <p align="left">
-<a href="https://linkedin.com/in/benbaeyens" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ben baeyens" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ben-baeyens" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ben baeyens" height="30" width="30" /></a>
 </p>
